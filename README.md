@@ -1,4 +1,4 @@
-# Bem vindo aos meus exercícios em Java!
+# Bem vindo ao meu repositório de Java!
 Neste repositório, tenho como objetivo colocar todos os meus códigos que achar interessantes de compartilhar. Além de ter a possibilidade de agregar em algo na vida de quem
 estiver visualizando esta página, também usarei como verificador de progresso, verificando como meus códigos irão evoluir com o tempo.
 
